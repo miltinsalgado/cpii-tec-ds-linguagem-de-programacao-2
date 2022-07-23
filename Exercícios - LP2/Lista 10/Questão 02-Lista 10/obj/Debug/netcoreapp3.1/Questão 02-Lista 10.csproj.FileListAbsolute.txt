@@ -1,0 +1,15 @@
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Lista 10\Questão 02-Lista 10\bin\Debug\netcoreapp3.1\Questão 02-Lista 10.exe
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Lista 10\Questão 02-Lista 10\bin\Debug\netcoreapp3.1\Questão 02-Lista 10.deps.json
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Lista 10\Questão 02-Lista 10\bin\Debug\netcoreapp3.1\Questão 02-Lista 10.runtimeconfig.json
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Lista 10\Questão 02-Lista 10\bin\Debug\netcoreapp3.1\Questão 02-Lista 10.runtimeconfig.dev.json
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Lista 10\Questão 02-Lista 10\bin\Debug\netcoreapp3.1\Questão 02-Lista 10.dll
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Lista 10\Questão 02-Lista 10\bin\Debug\netcoreapp3.1\Questão 02-Lista 10.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Lista 10\Questão 02-Lista 10\obj\Debug\netcoreapp3.1\Questão 02-Lista 10.csprojAssemblyReference.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Lista 10\Questão 02-Lista 10\obj\Debug\netcoreapp3.1\Questão_02_Lista_10.Form1.resources
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Lista 10\Questão 02-Lista 10\obj\Debug\netcoreapp3.1\Questão 02-Lista 10.csproj.GenerateResource.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Lista 10\Questão 02-Lista 10\obj\Debug\netcoreapp3.1\Questão 02-Lista 10.AssemblyInfoInputs.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Lista 10\Questão 02-Lista 10\obj\Debug\netcoreapp3.1\Questão 02-Lista 10.AssemblyInfo.cs
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Lista 10\Questão 02-Lista 10\obj\Debug\netcoreapp3.1\Questão 02-Lista 10.csproj.CoreCompileInputs.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Lista 10\Questão 02-Lista 10\obj\Debug\netcoreapp3.1\Questão 02-Lista 10.dll
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Lista 10\Questão 02-Lista 10\obj\Debug\netcoreapp3.1\Questão 02-Lista 10.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Lista 10\Questão 02-Lista 10\obj\Debug\netcoreapp3.1\Questão 02-Lista 10.genruntimeconfig.cache

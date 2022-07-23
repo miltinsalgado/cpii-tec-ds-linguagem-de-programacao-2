@@ -1,0 +1,17 @@
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Calculadora do Miltin\bin\Debug\netcoreapp3.1\Calculadora do Miltin.exe
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Calculadora do Miltin\bin\Debug\netcoreapp3.1\Calculadora do Miltin.deps.json
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Calculadora do Miltin\bin\Debug\netcoreapp3.1\Calculadora do Miltin.runtimeconfig.json
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Calculadora do Miltin\bin\Debug\netcoreapp3.1\Calculadora do Miltin.runtimeconfig.dev.json
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Calculadora do Miltin\bin\Debug\netcoreapp3.1\Calculadora do Miltin.dll
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Calculadora do Miltin\bin\Debug\netcoreapp3.1\Calculadora do Miltin.pdb
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Calculadora do Miltin\obj\Debug\netcoreapp3.1\Calculadora do Miltin.csproj.AssemblyReference.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Calculadora do Miltin\obj\Debug\netcoreapp3.1\Calculadora_do_Miltin.Form1.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Calculadora do Miltin\obj\Debug\netcoreapp3.1\Calculadora_do_Miltin.Properties.Resources.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Calculadora do Miltin\obj\Debug\netcoreapp3.1\Calculadora do Miltin.csproj.GenerateResource.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Calculadora do Miltin\obj\Debug\netcoreapp3.1\Calculadora do Miltin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Calculadora do Miltin\obj\Debug\netcoreapp3.1\Calculadora do Miltin.AssemblyInfoInputs.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Calculadora do Miltin\obj\Debug\netcoreapp3.1\Calculadora do Miltin.AssemblyInfo.cs
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Calculadora do Miltin\obj\Debug\netcoreapp3.1\Calculadora do Miltin.csproj.CoreCompileInputs.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Calculadora do Miltin\obj\Debug\netcoreapp3.1\Calculadora do Miltin.dll
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Calculadora do Miltin\obj\Debug\netcoreapp3.1\Calculadora do Miltin.pdb
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Calculadora do Miltin\obj\Debug\netcoreapp3.1\Calculadora do Miltin.genruntimeconfig.cache

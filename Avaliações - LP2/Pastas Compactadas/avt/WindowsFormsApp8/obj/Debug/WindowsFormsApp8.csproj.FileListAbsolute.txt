@@ -1,0 +1,10 @@
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Pastas Compactadas\avt\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Pastas Compactadas\avt\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Pastas Compactadas\avt\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Pastas Compactadas\avt\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.AssemblyReference.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Pastas Compactadas\avt\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Pastas Compactadas\avt\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Pastas Compactadas\avt\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Pastas Compactadas\avt\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Pastas Compactadas\avt\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Avaliações - LPII\Pastas Compactadas\avt\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb

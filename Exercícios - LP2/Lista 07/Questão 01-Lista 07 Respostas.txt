@@ -1,0 +1,29 @@
+Lista 07: Classificação de Variáveis
+
+a) Na classe Aluno, indique se as variáveis que se seguem são variáveis de instância, locais ou estáticas/de classe.
+Nome: Variável de instância
+Idade: Variável de instância
+Matrícula: Variável de instância
+Quantidade: Variável estática
+nome: Variável local
+idade: Variável local
+matricula: Variável local
+----------------------------------------------------------------------------------------------------------------------------------------------
+b) Faça o mesmo para as variáveis denominadas abaixo que se encontram na classe Program.
+objAluno1: Variável local
+objAluno2: Variável local
+objAluno3: Variável local
+----------------------------------------------------------------------------------------------------------------------------------------------
+c) De acordo com os códigos apresentados, indique o que será mostrado no Console. Após indicar,
+implemente as classes Program.cs e Aluno.cs exatamente como foram dadas e confira a sua resposta após
+executá-las.
+16
+184161
+Leonardo
+3
+----------------------------------------------------------------------------------------------------------------------------------------------
+d) Indique quantos e quais métodos estáticos foram usados na implementação da classe Program.cs. A qual
+classe esses métodos pertencem? Explique com suas palavras o que significa um atributo ou método serem
+considerados estáticos.
+Cinco métodos estáticos, sendo um ReadLine() e quatro WriteLine(""). Esses métodos pertecem à classe Console.
+Os atributos e métodos estáticos (ou de classe) são simbolicamente únicos e são compartilhados por todos os objetos daquela classe, ou seja, será utilizada em todos os objetos instanciados.

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Calculadora do Miltin/1.0.0": {
+        "runtime": {
+          "Calculadora do Miltin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculadora do Miltin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

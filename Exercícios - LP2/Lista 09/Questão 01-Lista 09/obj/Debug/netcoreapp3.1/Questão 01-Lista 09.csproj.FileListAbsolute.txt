@@ -1,0 +1,15 @@
+C:\Users\milto\OneDrive\Área de Trabalho\Projetos - LPII\Lista 09\Questão 01-Lista 09\bin\Debug\netcoreapp3.1\Questão 01-Lista 09.exe
+C:\Users\milto\OneDrive\Área de Trabalho\Projetos - LPII\Lista 09\Questão 01-Lista 09\bin\Debug\netcoreapp3.1\Questão 01-Lista 09.deps.json
+C:\Users\milto\OneDrive\Área de Trabalho\Projetos - LPII\Lista 09\Questão 01-Lista 09\bin\Debug\netcoreapp3.1\Questão 01-Lista 09.runtimeconfig.json
+C:\Users\milto\OneDrive\Área de Trabalho\Projetos - LPII\Lista 09\Questão 01-Lista 09\bin\Debug\netcoreapp3.1\Questão 01-Lista 09.runtimeconfig.dev.json
+C:\Users\milto\OneDrive\Área de Trabalho\Projetos - LPII\Lista 09\Questão 01-Lista 09\bin\Debug\netcoreapp3.1\Questão 01-Lista 09.dll
+C:\Users\milto\OneDrive\Área de Trabalho\Projetos - LPII\Lista 09\Questão 01-Lista 09\bin\Debug\netcoreapp3.1\Questão 01-Lista 09.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\Projetos - LPII\Lista 09\Questão 01-Lista 09\obj\Debug\netcoreapp3.1\Questão 01-Lista 09.csprojAssemblyReference.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Projetos - LPII\Lista 09\Questão 01-Lista 09\obj\Debug\netcoreapp3.1\Questão_01_Lista_09.Form1.resources
+C:\Users\milto\OneDrive\Área de Trabalho\Projetos - LPII\Lista 09\Questão 01-Lista 09\obj\Debug\netcoreapp3.1\Questão 01-Lista 09.csproj.GenerateResource.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Projetos - LPII\Lista 09\Questão 01-Lista 09\obj\Debug\netcoreapp3.1\Questão 01-Lista 09.AssemblyInfoInputs.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Projetos - LPII\Lista 09\Questão 01-Lista 09\obj\Debug\netcoreapp3.1\Questão 01-Lista 09.AssemblyInfo.cs
+C:\Users\milto\OneDrive\Área de Trabalho\Projetos - LPII\Lista 09\Questão 01-Lista 09\obj\Debug\netcoreapp3.1\Questão 01-Lista 09.csproj.CoreCompileInputs.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Projetos - LPII\Lista 09\Questão 01-Lista 09\obj\Debug\netcoreapp3.1\Questão 01-Lista 09.dll
+C:\Users\milto\OneDrive\Área de Trabalho\Projetos - LPII\Lista 09\Questão 01-Lista 09\obj\Debug\netcoreapp3.1\Questão 01-Lista 09.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\Projetos - LPII\Lista 09\Questão 01-Lista 09\obj\Debug\netcoreapp3.1\Questão 01-Lista 09.genruntimeconfig.cache

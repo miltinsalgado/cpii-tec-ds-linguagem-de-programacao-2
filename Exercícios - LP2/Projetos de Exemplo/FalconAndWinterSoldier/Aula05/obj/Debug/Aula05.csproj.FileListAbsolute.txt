@@ -1,0 +1,7 @@
+C:\Users\milto\OneDrive\Documentos\Estudos\CPII\Matérias\Técnico-Integrado Infomática\Linguagem de Programação 2\Linguagem C#\Apostilas e Aulas\FalconAndWinterSoldier\Aula05\bin\Debug\Aula05.exe.config
+C:\Users\milto\OneDrive\Documentos\Estudos\CPII\Matérias\Técnico-Integrado Infomática\Linguagem de Programação 2\Linguagem C#\Apostilas e Aulas\FalconAndWinterSoldier\Aula05\bin\Debug\Aula05.exe
+C:\Users\milto\OneDrive\Documentos\Estudos\CPII\Matérias\Técnico-Integrado Infomática\Linguagem de Programação 2\Linguagem C#\Apostilas e Aulas\FalconAndWinterSoldier\Aula05\bin\Debug\Aula05.pdb
+C:\Users\milto\OneDrive\Documentos\Estudos\CPII\Matérias\Técnico-Integrado Infomática\Linguagem de Programação 2\Linguagem C#\Apostilas e Aulas\FalconAndWinterSoldier\Aula05\obj\Debug\Aula05.csprojAssemblyReference.cache
+C:\Users\milto\OneDrive\Documentos\Estudos\CPII\Matérias\Técnico-Integrado Infomática\Linguagem de Programação 2\Linguagem C#\Apostilas e Aulas\FalconAndWinterSoldier\Aula05\obj\Debug\Aula05.csproj.CoreCompileInputs.cache
+C:\Users\milto\OneDrive\Documentos\Estudos\CPII\Matérias\Técnico-Integrado Infomática\Linguagem de Programação 2\Linguagem C#\Apostilas e Aulas\FalconAndWinterSoldier\Aula05\obj\Debug\Aula05.exe
+C:\Users\milto\OneDrive\Documentos\Estudos\CPII\Matérias\Técnico-Integrado Infomática\Linguagem de Programação 2\Linguagem C#\Apostilas e Aulas\FalconAndWinterSoldier\Aula05\obj\Debug\Aula05.pdb

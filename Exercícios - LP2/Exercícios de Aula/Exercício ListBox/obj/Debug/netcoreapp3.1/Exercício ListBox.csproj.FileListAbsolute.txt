@@ -1,0 +1,15 @@
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Exercícios de Aula\Exercício ListBox\bin\Debug\netcoreapp3.1\Exercício ListBox.exe
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Exercícios de Aula\Exercício ListBox\bin\Debug\netcoreapp3.1\Exercício ListBox.deps.json
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Exercícios de Aula\Exercício ListBox\bin\Debug\netcoreapp3.1\Exercício ListBox.runtimeconfig.json
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Exercícios de Aula\Exercício ListBox\bin\Debug\netcoreapp3.1\Exercício ListBox.runtimeconfig.dev.json
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Exercícios de Aula\Exercício ListBox\bin\Debug\netcoreapp3.1\Exercício ListBox.dll
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Exercícios de Aula\Exercício ListBox\bin\Debug\netcoreapp3.1\Exercício ListBox.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Exercícios de Aula\Exercício ListBox\obj\Debug\netcoreapp3.1\Exercício ListBox.csproj.AssemblyReference.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Exercícios de Aula\Exercício ListBox\obj\Debug\netcoreapp3.1\Exercício_ListBox.Form1.resources
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Exercícios de Aula\Exercício ListBox\obj\Debug\netcoreapp3.1\Exercício ListBox.csproj.GenerateResource.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Exercícios de Aula\Exercício ListBox\obj\Debug\netcoreapp3.1\Exercício ListBox.AssemblyInfoInputs.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Exercícios de Aula\Exercício ListBox\obj\Debug\netcoreapp3.1\Exercício ListBox.AssemblyInfo.cs
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Exercícios de Aula\Exercício ListBox\obj\Debug\netcoreapp3.1\Exercício ListBox.csproj.CoreCompileInputs.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Exercícios de Aula\Exercício ListBox\obj\Debug\netcoreapp3.1\Exercício ListBox.dll
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Exercícios de Aula\Exercício ListBox\obj\Debug\netcoreapp3.1\Exercício ListBox.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\Desenvolvimento de Sistemas\Linguagem de Programação II\Exercícios - LPII\Exercícios de Aula\Exercício ListBox\obj\Debug\netcoreapp3.1\Exercício ListBox.genruntimeconfig.cache

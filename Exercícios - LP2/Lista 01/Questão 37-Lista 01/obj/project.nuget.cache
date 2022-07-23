@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kYsfcoz23zsx9F4PNhbOlBrEGLLcZ4wNm6fab4Jkk3Dl4q62A65IuyN1BbcjrL/0+dxlJX18XWru4vsFpiQMHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\milto\\OneDrive\\Documentos\\Estudos\\CPII\\Matérias\\Técnico-Integrado Infomática\\Linguagem de Programação 2\\Linguagem C#\\Visual Studio\\Lista 01\\Questão 37-Lista 01\\Questão 37-Lista 01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\milto\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\milto\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

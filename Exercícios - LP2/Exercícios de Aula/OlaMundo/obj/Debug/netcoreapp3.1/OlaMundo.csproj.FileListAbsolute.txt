@@ -1,0 +1,15 @@
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\OlaMundo\bin\Debug\netcoreapp3.1\OlaMundo.exe
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\OlaMundo\bin\Debug\netcoreapp3.1\OlaMundo.deps.json
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\OlaMundo\bin\Debug\netcoreapp3.1\OlaMundo.runtimeconfig.json
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\OlaMundo\bin\Debug\netcoreapp3.1\OlaMundo.runtimeconfig.dev.json
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\OlaMundo\bin\Debug\netcoreapp3.1\OlaMundo.dll
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\OlaMundo\bin\Debug\netcoreapp3.1\OlaMundo.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.csprojAssemblyReference.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.Form1.resources
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.csproj.GenerateResource.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.AssemblyInfoInputs.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.AssemblyInfo.cs
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.csproj.CoreCompileInputs.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.dll
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.genruntimeconfig.cache

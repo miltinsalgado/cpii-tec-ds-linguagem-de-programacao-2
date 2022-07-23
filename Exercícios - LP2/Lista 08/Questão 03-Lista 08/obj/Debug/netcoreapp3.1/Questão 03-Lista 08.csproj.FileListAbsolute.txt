@@ -1,0 +1,15 @@
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Lista 08\Questão 03-Lista 08\bin\Debug\netcoreapp3.1\Questão 03-Lista 08.exe
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Lista 08\Questão 03-Lista 08\bin\Debug\netcoreapp3.1\Questão 03-Lista 08.deps.json
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Lista 08\Questão 03-Lista 08\bin\Debug\netcoreapp3.1\Questão 03-Lista 08.runtimeconfig.json
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Lista 08\Questão 03-Lista 08\bin\Debug\netcoreapp3.1\Questão 03-Lista 08.runtimeconfig.dev.json
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Lista 08\Questão 03-Lista 08\bin\Debug\netcoreapp3.1\Questão 03-Lista 08.dll
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Lista 08\Questão 03-Lista 08\bin\Debug\netcoreapp3.1\Questão 03-Lista 08.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Lista 08\Questão 03-Lista 08\obj\Debug\netcoreapp3.1\Questão 03-Lista 08.csprojAssemblyReference.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Lista 08\Questão 03-Lista 08\obj\Debug\netcoreapp3.1\Questão_03_Lista_08.Form1.resources
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Lista 08\Questão 03-Lista 08\obj\Debug\netcoreapp3.1\Questão 03-Lista 08.csproj.GenerateResource.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Lista 08\Questão 03-Lista 08\obj\Debug\netcoreapp3.1\Questão 03-Lista 08.AssemblyInfoInputs.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Lista 08\Questão 03-Lista 08\obj\Debug\netcoreapp3.1\Questão 03-Lista 08.AssemblyInfo.cs
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Lista 08\Questão 03-Lista 08\obj\Debug\netcoreapp3.1\Questão 03-Lista 08.csproj.CoreCompileInputs.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Lista 08\Questão 03-Lista 08\obj\Debug\netcoreapp3.1\Questão 03-Lista 08.dll
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Lista 08\Questão 03-Lista 08\obj\Debug\netcoreapp3.1\Questão 03-Lista 08.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Lista 08\Questão 03-Lista 08\obj\Debug\netcoreapp3.1\Questão 03-Lista 08.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\Potencia\bin\Debug\netcoreapp3.1\Potencia.exe
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\Potencia\bin\Debug\netcoreapp3.1\Potencia.deps.json
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\Potencia\bin\Debug\netcoreapp3.1\Potencia.runtimeconfig.json
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\Potencia\bin\Debug\netcoreapp3.1\Potencia.runtimeconfig.dev.json
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\Potencia\bin\Debug\netcoreapp3.1\Potencia.dll
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\Potencia\bin\Debug\netcoreapp3.1\Potencia.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\Potencia\obj\Debug\netcoreapp3.1\Potencia.csprojAssemblyReference.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\Potencia\obj\Debug\netcoreapp3.1\Potencia.Form1.resources
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\Potencia\obj\Debug\netcoreapp3.1\Potencia.csproj.GenerateResource.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\Potencia\obj\Debug\netcoreapp3.1\Potencia.AssemblyInfoInputs.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\Potencia\obj\Debug\netcoreapp3.1\Potencia.AssemblyInfo.cs
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\Potencia\obj\Debug\netcoreapp3.1\Potencia.csproj.CoreCompileInputs.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\Potencia\obj\Debug\netcoreapp3.1\Potencia.dll
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\Potencia\obj\Debug\netcoreapp3.1\Potencia.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\Programas C#\Programas de Aula\Potencia\obj\Debug\netcoreapp3.1\Potencia.genruntimeconfig.cache
